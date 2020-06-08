@@ -10,7 +10,7 @@
 <meta name="author" content="ThemeMascot" />
 
 <!-- Page Title -->
-<title>StudyPress | Education & Courses HTML Template</title>
+<title>B.SC Zoology| APC Mahalakshmi College for Women</title>
 
 <!-- Favicon and Touch Icons -->
 <link href="images/favicon.png" rel="shortcut icon" type="image/png">
@@ -62,9 +62,9 @@
       <div class="preloader-dot-loading">
         <div class="cssload-loading"><i></i><i></i><i></i><i></i></div>
       </div>
-    </div>
+ </div>
     <div id="disable-preloader" class="btn btn-default btn-sm">Disable Preloader</div>
-  </div> 
+  </div>  
   
   <!-- Header -->
   <header id="header" class="header">
@@ -1147,21 +1147,21 @@
       </div>
     </div>
   </header>
-  
   <!-- Start main-content -->
-  <div class="main-content bg-lighter">
+  <div class="main-content">
     <!-- Section: inner-header -->
-    <section class="inner-header divider parallax layer-overlay overlay-dark-5" data-bg-img="http://placehold.it/1920x1280">
+    <section class="inner-header divider parallax layer-overlay overlay-dark-5" data-bg-img="images/APCM/bg.jpg">
       <div class="container pt-70 pb-20">
         <!-- Section Content -->
         <div class="section-content">
           <div class="row">
             <div class="col-md-12">
-              <h2 class="title text-white">Course Gird</h2>
+              <h2 class="title text-white">  Department of Zoology</h2>
               <ol class="breadcrumb text-left text-black mt-10">
-                <li><a href="#">Home</a></li>
-                <li><a href="#">Pages</a></li>
-                <li class="active text-gray-silver">Page Title</li>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="#">Department</a></li>
+                <li><a href="#">Aided Courses</a></li>
+                <li class="active text-gray-silver">B. Sc Zoology</li>
               </ol>
             </div>
           </div>
@@ -1169,113 +1169,131 @@
       </div>
     </section>
 
-    <!-- Section: Course gird -->
+    <!-- Section: Blog -->
     <section>
       <div class="container">
         <div class="row">
-          <div class="col-md-9 blog-pull-right">
-             <div class="row">
-                <div class="col-sm-6 col-md-4">
-                  <div class="service-block bg-white">
-                    <div class="content text-left flip p-25 pt-0">
-                      <h4 class="line-bottom mb-10">THIRU. A.P.C.V. CHOCKALINGAM</h4>
-                      <p>President</p>
-                    </div>
-                  </div>
+          <div class="col-sm-12 col-md-3">
+            <div class="sidebar sidebar-left mt-sm-30">
+              <div class="widget">
+                <h5 class="widget-title line-bottom">Details</h5>
+                <div class="categories">
+                  <ul class="list list-border angle-double-right">
+                    <li><a href="https://apcmzoo.blogspot.com/">Zoology Blog</a></li>
+                    <li><a href="https://apcmzoo.blogspot.com/">Botany Blog</a></li>
+                    <li><a href="https://drive.google.com/file/d/1iyPVNvlRnTh9WvaJlFtpSn-bD_21jGLP/view">Learning resources</a></li>
+                      <li><a href="https://drive.google.com/file/d/1F0bgBu-8z_M1crtZ1T4w35XHFEU0Cc81/view">University Rank Holder</a></li>
+                    <li><a href="https://drive.google.com/file/d/1o92YYr8HiySgEudS0o5tUE0ahi9DGDSD/view">Placement</a></li>
+                   <li><a href="https://drive.google.com/file/d/1o92YYr8HiySgEudS0o5tUE0ahi9DGDSD/view">Alumnae</a></li>
+                  </ul>
                 </div>
-                <div class="col-sm-6 col-md-4">
-                  <div class="service-block bg-white">
-                  <div class="content text-left flip p-25 pt-0">
-                      <h4 class="line-bottom mb-10"><br> C. SUBBULAKSHMI</h4>
-                      <p>Secretary</p>
-                   </div>
-                  </div>
+              </div>
+              <div class="widget">
+                <h5 class="widget-title line-bottom">Association Report</h5>
+                <div class="categories">
+                  <ul class="list list-border angle-double-right">
+                    <li><a href="#">Association Report 2013-2014</a></li>
+                    <li><a href="#">Association Report 2014-2015</a></li>
+                    <li><a href="#">Association Report 2015-2016</a></li>
+                    <li><a href="#">Association Report 2016-2017</a></li>
+                    <li><a href="#">Association Report 2017-2018</a></li>
+                    <li><a href="#">Association Report 2018-2019</a></li>
+                    <li><a href="#">Association Report 2019-2020</a></li>
+                  </ul>
                 </div>
-                <div class="col-sm-6 col-md-4">
-                  <div class="service-block bg-white">
-                      <div class="content text-left flip p-25 pt-0">
-                      <h4 class="line-bottom mb-10"><br>DR. N. MEENAKUMARI</h4>
-                      <p>Principal</p>
-                     </div>
-                  </div>
+              </div>
+              <div class="widget">
+                <h5 class="widget-title line-bottom">Result</h5>
+                <div class="categories">
+                    <ul class="list list-border angle-double-right">
+                        <li><a href="#">Results</a></li>
+                       
+                    </ul>
                 </div>
-                <div class="col-sm-6 col-md-4">
-                  <div class="service-block bg-white">
-                     <div class="content text-left flip p-25 pt-0">
-                      <h4 class="line-bottom mb-10">TMT. J. VIJAYALAKSHMI</h4>
-                      <p>Member</p>
-                      </div>
-                  </div>
-                </div>
-                <div class="col-sm-6 col-md-4">
-                  <div class="service-block bg-white">
-                    <div class="content text-left flip p-25 pt-0">
-                      <h4 class="line-bottom mb-10">TMT. G. GEETAH SREE</h4>
-                      <p>Member</p>
-                    </div>
-                  </div>
-                </div>
-                <div class="col-sm-6 col-md-4">
-                  <div class="service-block bg-white">
-                     <div class="content text-left flip p-25 pt-0">
-                      <h4 class="line-bottom mb-10">TMT. C. ULAGAMMAL </h4>
-                      <p>Member</p>
-                      </div>
-                  </div>
-                </div>
-                <div class="col-sm-6 col-md-4">
-                  <div class="service-block bg-white">
-                     <div class="content text-left flip p-25 pt-0">
-                      <h4 class="line-bottom mb-10">DR. D. RADHIKA </h4>
-                      <p>Member</p>
-                      </div>
-                  </div>
-                </div>
-                <div class="col-sm-6 col-md-4">
-                   <div class="service-block bg-white">
-                     <div class="content text-left flip p-25 pt-0">
-                      <h4 class="line-bottom mb-10">TMT. MAYMA COREARA </h4>
-                      <p>Member</p>
-                      </div>
-                  </div>
-                </div>
-                <div class="col-sm-6 col-md-4">
-                  <div class="service-block bg-white">
-                     <div class="content text-left flip p-25 pt-0">
-                      <h4 class="line-bottom mb-10">TMT. K. MEENAKSHI </h4>
-                      <p>Member</p>
-                      </div>
-                  </div>
-                </div>
-                <div class="col-sm-6 col-md-4">
-                  <div class="service-block bg-white">
-                     <div class="content text-left flip p-25 pt-0">
-                      <h4 class="line-bottom mb-10">DR. S. BANUMATHI </h4>
-                      <p>Member</p>
-                      </div>
-                  </div>
-                </div>
-                <div class="col-sm-6 col-md-4">
-                  <div class="service-block bg-white">
-                     <div class="content text-left flip p-25 pt-0">
-                      <h4 class="line-bottom mb-10">MRS. G. PACKIALAKSHMI</h4>
-                      <p>Member</p>
-                      </div>
-                  </div>
-                </div>
-                <div class="col-sm-6 col-md-4">
-                  <div class="service-block bg-white">
-                     <div class="content text-left flip p-25 pt-0">
-                      <h4 class="line-bottom mb-10">DR. A. RAJARATHINAM</h4>
-                      <p>Member</p>
-                      </div>
-                  </div>
-                </div>
-             </div>
-          </div>
+              </div>
         </div>
-      </div>
-    </section>     
+          </div>
+          <div class="col-md-9 blog-pull-right">
+            <div class="blog-posts single-post">
+              <article class="post clearfix mb-0">
+                <div class="entry-title pt-10 pl-15">
+                  <h4><a class="text-uppercase" href="#">DEPARTMENT OF Zoology</a></h4>
+                </div>
+                <div class="entry-content mt-10">
+                  <style>
+                    div {
+                      text-align: justify;
+                      text-justify: inter-word;
+                    }
+                    </style>
+               <p class="mb-15"> Genesis of the Department:
+                Allied Zoology was introduced in the year 1974. B.Sc., Zoology major was started in the year 1979. This course provides insight into the fundamental and advanced concepts of Zoology on various branches like Invertebrata, Chordata, Ecology, Toxicology, Developmental Zoology, Cell and Molecular biology, Genetics, Animal Physiology, Biochemistry, Animal Biotechnology, Organic evolution, Immunology, Microbiology, Biostatistics, Bio informatics and Computer applications. Food processing Technology is being offered as an Add on certificate course for first year students. In addition to this, to understand the importance of various food stuff, malnutrition related diseases and special diets for persons suffering from diseases, Nutrition and Dietetics is provided. Moreover, to encourage self employment and save us by minimizing the use of chemical fertilizers, Verrmitechnology is being taught as Skill Based subject. Apiculture and Sericulture are offered as they are rural and welfare oriented agro based industry, to explore scope for students adopting them as a vacation after their graduation. For the second and third year students two certificate courses such as Tailoring, Hand work, Personal grooming, Quick Maths, Spoken English and Spoken Hindi are provided annually during zero hours. Mrs. V. Gandhimathi was the first Head of the department and she continued her service till 2004. Dr. N.S. Vijayalakshmi served as the Head of the department for nine years. Mrs. K. Kalavathy served for 25 years. Dr. V.K.Meenakshi is a notable and remarkable researcher and a Scientist in the field of ascidian systematics. She is extending her expertise in the identification of ascidians to many national institutes. She had been the crown of the department. She had completed 4 Reasearch projects funded by UGC and MOEF (Ministry of Environment and Forests). Under her guidance, 6 Ph.Ds. have been awarded and three are awaiting for Viva. Mrs. S. Kanthimathi, Associate Professor of Botany served till 2007. At present Mrs. M. Muthukani is the Head of the department and serves as the Assistant NCC officer since 2007. Dr. T. Sakthika, Assistant Professor of Zoology and Dr. V. Sornalakshmi, Assistant Professor of Botany are the aided and Dr. M. Paripooranaselvi and Ms. M. Vijayalakshmi are the unaided faculty of the department. Teaching is made more effective by technology aided teaching using LCD, OHP projector. Department regularly organises funded and non-funded seminars on recent developments in the field of life sciences and global environmental issues to bring awareness and inculcate research aptitude in the young minds. Regular field visits are organized to apiary, Sericulture farm, Vermicomposting unit, CMFRI. Department library is maintained with more than 600 books which are categorized into reference, text and book-bank enabling the students to prepare for competitive exams, assignments, quiz, seminars etc. Our museum displays more than 200 specimen which help the students to learn about animal diversity and the basics of classification. Display of more than 2300 samples of ascidians collected and identified from 520 stations along the Indian coast is one of the highlight of the museum.</p>
+                <div class="mt-30 mb-0">
+                    <h5 class="pull-left mt-10 mr-20 text-theme-color-2">Share:</h5>
+                    <ul class="styled-icons icon-circled m-0">
+                      <li><a href="#" data-bg-color="#3A5795"><i class="fa fa-facebook text-white"></i></a></li>
+                      <li><a href="#" data-bg-color="#55ACEE"><i class="fa fa-twitter text-white"></i></a></li>
+                      <li><a href="#" data-bg-color="#A11312"><i class="fa fa-google-plus text-white"></i></a></li>
+                    </ul>
+                  </div>
+                </div>
+              </article>
+            </div>
+            <div class="row">
+                <div class="entry-title pt-10 pl-15">
+                    <h3><a class="text-uppercase" href="#" style="text-align: center;">Faculty</a></h3>
+                </div>
+                <div class="col-xs-12 col-sm-6 col-md-6">
+                  <div class="author-details media-post">
+                    <div class="author-details media-post">
+                      <img  alt="post-thumb mb-0 pull-left flip pr-20" src="images/APCM/Faculty/no-image.png" style="align-content: center;">
+                      <h4 class="text-uppercase text-theme-colored font-weight-300 m-2"><a href="#" target="_blank">MRS. MUTHUKANI M.SC.,M.PHIL.</a></h4>
+                      <h6 class="text-gray font-13 font-weight-400 line-bottom-centered mt-0">Head & Assistant Professor</h6>
+                    </div>
+                  </div>
+                </div>
+                <div class="col-xs-12 col-sm-6 col-md-6">
+                  <div class="author-details media-post">
+                    <div class="team-thumb">
+                      <img  alt="" src="images/APCM/Faculty/sakthika.png">
+                      <h4 class="text-uppercase text-theme-colored font-weight-300 m-2"><a href="https://drive.google.com/file/d/1uFnQVZJ3OCZhDv7yrVKDfemBrRPDxG6M/view" target="_blank">DR.T .SAKTHIKA M.SC.,M.PHIL.,PHD.</a></h4>
+                      <h6 class="text-gray font-13 font-weight-400 line-bottom-centered mt-0">Assistant Professor</h6>
+                    </div>
+                  </div>
+                </div>
+                <div class="col-xs-12 col-sm-6 col-md-6">
+                    <div class="author-details media-post">
+                      <div class="team-thumb">
+                        <img  alt="" src="images/APCM/Faculty/sornalakshmi.png">
+                        <h4 class="text-uppercase text-theme-colored font-weight-300 m-2"><a href="https://drive.google.com/file/d/1fGtN99YmK7Fr6qwdwv08O-iHvziR85sg/view" target="_blank"><br>DR. V. SORNALAKSHMI M.SC.,M.PHIL.,PHD</a></h4>
+                        <h6 class="text-gray font-13 font-weight-400 line-bottom-centered mt-0">Assistant Professor</h6>
+                      </div>
+                    </div>
+                </div>
+       </div>
+        <div class="row">
+            <div class="entry-title pt-10 pl-15">
+                <h3><a class="text-uppercase" href="#" style="text-align: center;">Faculty</a></h3>
+            </div>
+            <div class="col-xs-12 col-sm-6 col-md-6">
+              <div class="author-details media-post">
+                <div class="author-details media-post">
+                <img  alt="" src="images/APCM/Faculty/vijayalakshmi.png">
+                <h4 class="text-uppercase text-theme-colored font-weight-300 m-2"><a href="https://drive.google.com/file/d/1ooQb-xaHFQleizJc8IeV0ndGIxvyC0au/view" target="_blank"><br>MISS M. VIJAYALAKSHMI M.SC.,B.ED.,M.PHIL.,(SLET)</a></h4>
+                <h6 class="text-gray font-13 font-weight-400 line-bottom-centered mt-0">Assistant Professor</h6>
+            </div>
+         </div>
+         <div class="col-xs-12 col-sm-6 col-md-6">
+            <div class="author-details media-post">
+              <div class="team-thumb">
+                <img  alt="" src="images/APCM/Faculty/jeyanthi_kumari.png">
+                <h4 class="text-uppercase text-theme-colored font-weight-300 m-2"><a href="https://drive.google.com/file/d/1_rwlfVYZBX4rCcwlbx4dsZ60I2gYZiSp/view" target="_blank"><br>DR.V.JEYANTHI KUMARI M.SC.,M.PHIL.,PH.D</a></h4>
+                <h6 class="text-gray font-13 font-weight-400 line-bottom-centered mt-0">Assistant Professor</h6>
+            </div>
+         </div>
+       </div>
+    </section>
+  </div>
   <!-- end main-content -->
   
   <!-- Footer -->

@@ -10,7 +10,7 @@
 <meta name="author" content="ThemeMascot" />
 
 <!-- Page Title -->
-<title>StudyPress | Education & Courses HTML Template</title>
+<title>B.com  commerce | APC Mahalakshmi College for Women</title>
 
 <!-- Favicon and Touch Icons -->
 <link href="images/favicon.png" rel="shortcut icon" type="image/png">
@@ -62,9 +62,9 @@
       <div class="preloader-dot-loading">
         <div class="cssload-loading"><i></i><i></i><i></i><i></i></div>
       </div>
-    </div>
+ </div>
     <div id="disable-preloader" class="btn btn-default btn-sm">Disable Preloader</div>
-  </div> 
+  </div>  
   
   <!-- Header -->
   <header id="header" class="header">
@@ -1147,21 +1147,21 @@
       </div>
     </div>
   </header>
-  
   <!-- Start main-content -->
-  <div class="main-content bg-lighter">
+  <div class="main-content">
     <!-- Section: inner-header -->
-    <section class="inner-header divider parallax layer-overlay overlay-dark-5" data-bg-img="http://placehold.it/1920x1280">
+    <section class="inner-header divider parallax layer-overlay overlay-dark-5" data-bg-img="images/APCM/bg.jpg">
       <div class="container pt-70 pb-20">
         <!-- Section Content -->
         <div class="section-content">
           <div class="row">
             <div class="col-md-12">
-              <h2 class="title text-white">Course Gird</h2>
+              <h2 class="title text-white">  Department of Commerce </h2>
               <ol class="breadcrumb text-left text-black mt-10">
-                <li><a href="#">Home</a></li>
-                <li><a href="#">Pages</a></li>
-                <li class="active text-gray-silver">Page Title</li>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="#">Department</a></li>
+                <li><a href="#">UnAided Courses</a></li>
+                <li class="active text-gray-silver">  Departmnt of Commerce</li>
               </ol>
             </div>
           </div>
@@ -1169,113 +1169,164 @@
       </div>
     </section>
 
-    <!-- Section: Course gird -->
+    <!-- Section: Blog -->
     <section>
       <div class="container">
         <div class="row">
-          <div class="col-md-9 blog-pull-right">
-             <div class="row">
-                <div class="col-sm-6 col-md-4">
-                  <div class="service-block bg-white">
-                    <div class="content text-left flip p-25 pt-0">
-                      <h4 class="line-bottom mb-10">THIRU. A.P.C.V. CHOCKALINGAM</h4>
-                      <p>President</p>
-                    </div>
-                  </div>
+          <div class="col-sm-12 col-md-3">
+            <div class="sidebar sidebar-left mt-sm-30">
+              <div class="widget">
+                <h5 class="widget-title line-bottom">Details</h5>
+                <div class="categories">
+                  <ul class="list list-border angle-double-right">
+                    <li><a href="http://apcmcollegecommercesf.blogspot.com/">Blog</a></li>
+                    <li><a href="https://drive.google.com/file/d/1Ql0tJKpsWcNsPkY9rJ4FgwH1OIVyQ2Ya/view">Seminars</a></li>
+                      <li><a href="https://drive.google.com/file/d/15R1b3jYa8yH7IP4S_tILGxl7K8Tye4hE/view">Learning Resources</a></li>
+                    <li><a href="https://drive.google.com/file/d/1_BiH2_EknbuhfGp3ERO2yD4DZoALaSJG/view">Student Achievement</a></li>
+                    <li><a href="https://drive.google.com/file/d/1ismZ7bgq6cKWKIG2ifFvl1MVQykJyu-h/view">University Rank</a></li>
+                   <li><a href="https://drive.google.com/file/d/1ngcgaE4HrAQ1KoLikaPjvSpBankQyb0U/view">Placement</a></li>
+                   <li><a href="https://drive.google.com/file/d/1rItdLz0uR90sOsnGVYlUecPgw92I867C/view">Alumane</a></li>
+                  </ul>
                 </div>
-                <div class="col-sm-6 col-md-4">
-                  <div class="service-block bg-white">
-                  <div class="content text-left flip p-25 pt-0">
-                      <h4 class="line-bottom mb-10"><br> C. SUBBULAKSHMI</h4>
-                      <p>Secretary</p>
-                   </div>
-                  </div>
+              </div>
+              <div class="widget">
+                <h5 class="widget-title line-bottom">Association Report</h5>
+                <div class="categories">
+                  <ul class="list list-border angle-double-right">
+                    <li><a href="https://drive.google.com/file/d/1F3xgoTAd2HrR6X2Eha2ud6IgFZkAB6gv/view">Association Report 2013-2014</a></li>
+                    <li><a href="https://drive.google.com/file/d/1UjCeIYa3p5HuzePBthKQSjTF5lrpm2Un/view">Association Report 2014-2015</a></li>
+                    <li><a href="#">Association Report 2015-2016</a></li>
+                    <li><a href="https://drive.google.com/file/d/1UjCeIYa3p5HuzePBthKQSjTF5lrpm2Un/view">Association Report 2016-2017</a></li>
+                    <li><a href="https://drive.google.com/file/d/1xyoVYjIiVwgbjMPwQgSwWR5a0-QLOf4h/view">Association Report 2017-2018</a></li>
+                    <li><a href="#">Association Report 2018-2019</a></li>
+                    <li><a href="#">Association Report 2019-2020</a></li>
+                  </ul>
                 </div>
-                <div class="col-sm-6 col-md-4">
-                  <div class="service-block bg-white">
-                      <div class="content text-left flip p-25 pt-0">
-                      <h4 class="line-bottom mb-10"><br>DR. N. MEENAKUMARI</h4>
-                      <p>Principal</p>
-                     </div>
-                  </div>
+              </div>
+              <div class="widget">
+                <h5 class="widget-title line-bottom">Result</h5>
+                <div class="categories">
+                    <ul class="list list-border angle-double-right">
+                        <li><a href="#">Results</a></li>
+                       
+                    </ul>
                 </div>
-                <div class="col-sm-6 col-md-4">
-                  <div class="service-block bg-white">
-                     <div class="content text-left flip p-25 pt-0">
-                      <h4 class="line-bottom mb-10">TMT. J. VIJAYALAKSHMI</h4>
-                      <p>Member</p>
-                      </div>
-                  </div>
-                </div>
-                <div class="col-sm-6 col-md-4">
-                  <div class="service-block bg-white">
-                    <div class="content text-left flip p-25 pt-0">
-                      <h4 class="line-bottom mb-10">TMT. G. GEETAH SREE</h4>
-                      <p>Member</p>
-                    </div>
-                  </div>
-                </div>
-                <div class="col-sm-6 col-md-4">
-                  <div class="service-block bg-white">
-                     <div class="content text-left flip p-25 pt-0">
-                      <h4 class="line-bottom mb-10">TMT. C. ULAGAMMAL </h4>
-                      <p>Member</p>
-                      </div>
-                  </div>
-                </div>
-                <div class="col-sm-6 col-md-4">
-                  <div class="service-block bg-white">
-                     <div class="content text-left flip p-25 pt-0">
-                      <h4 class="line-bottom mb-10">DR. D. RADHIKA </h4>
-                      <p>Member</p>
-                      </div>
-                  </div>
-                </div>
-                <div class="col-sm-6 col-md-4">
-                   <div class="service-block bg-white">
-                     <div class="content text-left flip p-25 pt-0">
-                      <h4 class="line-bottom mb-10">TMT. MAYMA COREARA </h4>
-                      <p>Member</p>
-                      </div>
-                  </div>
-                </div>
-                <div class="col-sm-6 col-md-4">
-                  <div class="service-block bg-white">
-                     <div class="content text-left flip p-25 pt-0">
-                      <h4 class="line-bottom mb-10">TMT. K. MEENAKSHI </h4>
-                      <p>Member</p>
-                      </div>
-                  </div>
-                </div>
-                <div class="col-sm-6 col-md-4">
-                  <div class="service-block bg-white">
-                     <div class="content text-left flip p-25 pt-0">
-                      <h4 class="line-bottom mb-10">DR. S. BANUMATHI </h4>
-                      <p>Member</p>
-                      </div>
-                  </div>
-                </div>
-                <div class="col-sm-6 col-md-4">
-                  <div class="service-block bg-white">
-                     <div class="content text-left flip p-25 pt-0">
-                      <h4 class="line-bottom mb-10">MRS. G. PACKIALAKSHMI</h4>
-                      <p>Member</p>
-                      </div>
-                  </div>
-                </div>
-                <div class="col-sm-6 col-md-4">
-                  <div class="service-block bg-white">
-                     <div class="content text-left flip p-25 pt-0">
-                      <h4 class="line-bottom mb-10">DR. A. RAJARATHINAM</h4>
-                      <p>Member</p>
-                      </div>
-                  </div>
-                </div>
-             </div>
+              </div>
+           </div>
           </div>
-        </div>
-      </div>
-    </section>     
+          <div class="col-md-9 blog-pull-right">
+            <div class="blog-posts single-post">
+              <article class="post clearfix mb-0">
+                <div class="entry-title pt-10 pl-15">
+                  <h4><a class="text-uppercase" href="#">DEPARTMENT OF Commerce</a></h4>
+                </div>
+                <div class="entry-content mt-10">
+                  <style>
+                    div {
+                      text-align: justify;
+                      text-justify: inter-word;
+                    }
+                    </style>
+               <p class="mb-15">In the year 1998, the department was established as corporate secretaryship. In 2006, the department was changed as Department of commerce in the unaided stream (B.Com.). The head of the department is Dr. S. Vanitha. The department has won ‘Best Department Award’ department thrice(2003-04, 2014-15, 2015-16). The P.G. Programme (M.Com.) was introduced in June 2013. The development of the students is being ensured through various curricular, extra curricular and co-curricular activities by the member of the department. The department offers career oriented course on “MS Office” and “Tally 9” for the first and second degree students during zero hours. ICT classes are handled by the faculty, members to improve the quality of learning. The department has a library of its own to help the needy students.  </p>
+                <div class="mt-30 mb-0">
+                    <h5 class="pull-left mt-10 mr-20 text-theme-color-2">Share:</h5>
+                    <ul class="styled-icons icon-circled m-0">
+                      <li><a href="#" data-bg-color="#3A5795"><i class="fa fa-facebook text-white"></i></a></li>
+                      <li><a href="#" data-bg-color="#55ACEE"><i class="fa fa-twitter text-white"></i></a></li>
+                      <li><a href="#" data-bg-color="#A11312"><i class="fa fa-google-plus text-white"></i></a></li>
+                    </ul>
+                  </div>
+                </div>
+              </article>
+            </div>
+            <div class="row">
+                <div class="entry-title pt-10 pl-15">
+                    <h3><a class="text-uppercase" href="#" style="text-align: center;">Faculty</a></h3>
+                </div>
+                <div class="col-xs-12 col-sm-6 col-md-6">
+                  <div class="author-details media-post">
+                    <div class="author-details media-post">
+                      <img  alt="post-thumb mb-0 pull-left flip pr-20" src="images/APCM/Faculty/no-image.png" style="align-content: center;">
+                      <h4 class="text-uppercase text-theme-colored font-weight-300 m-2"><a href="https://drive.google.com/file/d/1hLcS2NV7ugEr-T1dJky4kfRMpUUG1WCj/view" target="_blank">DR. S.VANITHA M.COM; M.PHIL; PH.D.,</a></h4>
+                      <h6 class="text-gray font-13 font-weight-400 line-bottom-centered mt-0">Head & Assistant Professor</h6>
+                    </div>
+                  </div>
+                </div>
+                <div class="col-xs-12 col-sm-6 col-md-6">
+                  <div class="author-details media-post">
+                    <div class="team-thumb">
+                      <img  alt="" src="images/APCM/Faculty/karpagavalli.png">
+                      <h4 class="text-uppercase text-theme-colored font-weight-300 m-2"><a href="https://drive.google.com/file/d/1NxH3acjJatAdjXnW8ala8FiYGMGbK-a5/view" target="_blank"><br>   MRS. P.KARPAGAVALLI M.COM; M.PHIL; PH.D.(PURSUING),</a></h4>
+                      <h6 class="text-gray font-13 font-weight-400 line-bottom-centered mt-0">Assistant Professor</h6>
+                    </div>
+                  </div>
+                </div>
+                <div class="col-xs-12 col-sm-6 col-md-6">
+                  <div class="author-details media-post">
+                    <div class="team-thumb">
+                      <img  alt="" src="images/APCM/Faculty/chellammal commerce.png">
+                      <h4 class="text-uppercase text-theme-colored font-weight-300 m-2"><a href="DR.T.CHELLAMMAL M.COM; M.PHIL; PH.D.," target="_blank"><br>   DR.T.CHELLAMMAL M.COM; M.PHIL; PH.D.,</a></h4>
+                      <h6 class="text-gray font-13 font-weight-400 line-bottom-centered mt-0">Assistant Professor</h6>
+                    </div>
+                  </div>
+                </div>
+                <div class="col-xs-12 col-sm-6 col-md-6">
+                  <div class="author-details media-post">
+                    <div class="team-thumb">
+                      <img  alt="" src="images/APCM/Faculty/devi.png">
+                      <h4 class="text-uppercase text-theme-colored font-weight-300 m-2"><a href="https://drive.google.com/file/d/1tusYC6JEeOJotUT_JecovwITdZd_fmPm/view" target="_blank"><br>  MRS. A.DEVI M.COM; MBA; M.PHIL; PH.D.(PURSUING), PH.D.,</a></h4>
+                      <h6 class="text-gray font-13 font-weight-400 line-bottom-centered mt-0">Assistant Professor</h6>
+                    </div>
+                  </div>
+                </div>
+                <div class="col-xs-12 col-sm-6 col-md-6">
+                  <div class="author-details media-post">
+                    <div class="team-thumb">
+                      <img  alt="" src="images/APCM/Faculty/samundeswari.png">
+                      <h4 class="text-uppercase text-theme-colored font-weight-300 m-2"><a href="https://drive.google.com/file/d/1qnNiuh9cMX6ou1pp0Y7_p12lGIL9r-HW/view" target="_blank"><br>  DR. R.SAMUNDESWARI M.COM; M.PHIL; SET; PH.D.,</a></h4>
+                      <h6 class="text-gray font-13 font-weight-400 line-bottom-centered mt-0">Assistant Professor</h6>
+                    </div>
+                  </div>
+                </div>
+                <div class="col-xs-12 col-sm-6 col-md-6">
+                  <div class="author-details media-post">
+                    <div class="team-thumb">
+                      <img  alt="" src="images/APCM/Faculty/chandra.png">
+                      <h4 class="text-uppercase text-theme-colored font-weight-300 m-2"><a href="https://drive.google.com/file/d/1QeeAiATsenI2kuIDe4YCmHxNI3Hteocz/view" target="_blank"><br>  MISS. K.CHANDRA M.COM; M.PHIL.;PH.D.(PURSUING),</a></h4>
+                      <h6 class="text-gray font-13 font-weight-400 line-bottom-centered mt-0">Assistant Professor</h6>
+                    </div>
+                  </div>
+                </div>
+                <div class="col-xs-12 col-sm-6 col-md-6">
+                  <div class="author-details media-post">
+                    <div class="team-thumb">
+                      <img  alt="" src="images/APCM/Faculty/vedha.png">
+                      <h4 class="text-uppercase text-theme-colored font-weight-300 m-2"><a href="https://drive.google.com/file/d/1N0xEWtrYHS_H96X3F0wp7BTF2IUpA6zT/view" target="_blank"><br>  MRS. S.VEDHAVALLI M.COM; M.PHIL.MSC (YOGA);PH.D.(PURSUING),</a></h4>
+                      <h6 class="text-gray font-13 font-weight-400 line-bottom-centered mt-0">Assistant Professor</h6>
+                    </div>
+                  </div>
+                </div>
+                <div class="col-xs-12 col-sm-6 col-md-6">
+                  <div class="author-details media-post">
+                    <div class="team-thumb">
+                      <img  alt="" src="images/APCM/Faculty/durga.png">
+                      <h4 class="text-uppercase text-theme-colored font-weight-300 m-2"><a href="https://drive.google.com/file/d/1wwrX7coaCtRRwqfdgPIu2UwobdjVfyCL/view" target="_blank"><br>  MRS. B. DURGA DEVI,M.COM.; M.PHIL.,</a></h4>
+                      <h6 class="text-gray font-13 font-weight-400 line-bottom-centered mt-0">Assistant Professor</h6>
+                    </div>
+                  </div>
+                </div>
+                <div class="col-xs-12 col-sm-6 col-md-6">
+                  <div class="author-details media-post">
+                    <div class="team-thumb">
+                      <img  alt="" src="images/APCM/Faculty/ullagammal.png">
+                      <h4 class="text-uppercase text-theme-colored font-weight-300 m-2"><a href="https://drive.google.com/file/d/1zyr4thPywZNTXe_dUoYp-XOD4LyzgrcP/view" target="_blank"><br> MISS. P.ULAGAMMAL,M.COM.; M.PHIL.,</a></h4>
+                      <h6 class="text-gray font-13 font-weight-400 line-bottom-centered mt-0">Assistant Professor</h6>
+                    </div>
+                  </div>
+                </div>
+            
+    </section>
+  </div>
   <!-- end main-content -->
   
   <!-- Footer -->
